@@ -1,2 +1,2 @@
 # Yarko-s-first-repository
-My repository as a result of my trid class of backend developing with Pachaqtec-Idat
+My first online repository as a result of my third class of backend developing with Pachaqtec-Idat
